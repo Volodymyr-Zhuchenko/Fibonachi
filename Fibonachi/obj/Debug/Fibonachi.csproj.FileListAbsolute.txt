@@ -1,0 +1,7 @@
+D:\C#\git test\Нова папка (2)\Fibonachi\Fibonachi\bin\Debug\Fibonachi.exe.config
+D:\C#\git test\Нова папка (2)\Fibonachi\Fibonachi\bin\Debug\Fibonachi.exe
+D:\C#\git test\Нова папка (2)\Fibonachi\Fibonachi\bin\Debug\Fibonachi.pdb
+D:\C#\git test\Нова папка (2)\Fibonachi\Fibonachi\obj\Debug\Fibonachi.csproj.AssemblyReference.cache
+D:\C#\git test\Нова папка (2)\Fibonachi\Fibonachi\obj\Debug\Fibonachi.csproj.CoreCompileInputs.cache
+D:\C#\git test\Нова папка (2)\Fibonachi\Fibonachi\obj\Debug\Fibonachi.exe
+D:\C#\git test\Нова папка (2)\Fibonachi\Fibonachi\obj\Debug\Fibonachi.pdb
